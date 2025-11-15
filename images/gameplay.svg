@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#000" />
+  <!-- sample snake body -->
+  <g fill="#0f0">
+    <rect x="100" y="50" width="10" height="10"/>
+    <rect x="90" y="50" width="10" height="10"/>
+    <rect x="80" y="50" width="10" height="10"/>
+    <rect x="70" y="50" width="10" height="10"/>
+  </g>
+  <!-- food -->
+  <rect x="300" y="200" width="10" height="10" fill="#fff"/>
+  <text x="20" y="30" font-family="Consolas,monospace" font-size="18" fill="#fff">Snake Eater - sample gameplay</text>
+</svg>

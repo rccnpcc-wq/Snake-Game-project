@@ -1,0 +1,5 @@
+# Use pygame-ce for Python 3.14 (prebuilt wheel used here)
+pygame-ce==2.5.6
+
+# If you use Python 3.11/3.12 you can install the official pygame wheels instead:
+# pygame==2.1.3
